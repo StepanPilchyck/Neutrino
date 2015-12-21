@@ -1,0 +1,905 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 17:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: .\banner\admin.py:16 .\banner\app.py:7 .\banner\models.py:17
+#: .\banner\models.py:229 .\banner\models.py:242 .\banner\models.py:275
+msgid "Banner"
+msgstr ""
+
+#: .\banner\admin.py:35 .\gallery\admin.py:36 .\gallery\admin.py:185
+#: .\menu\admin.py:32 .\menu\admin.py:96 .\menu\admin.py:159
+msgid "Realized Text Data"
+msgstr ""
+
+#: .\banner\admin.py:82 .\gallery\admin.py:83
+msgid "Image item must have at least one default name"
+msgstr ""
+
+#: .\banner\admin.py:84 .\gallery\admin.py:85
+msgid "Image item must have only one default name"
+msgstr ""
+
+#: .\banner\admin.py:135 .\banner\models.py:172 .\banner\models.py:238
+#: .\banner\models.py:239 .\catalogue\admin.py:20 .\catalogue\admin.py:337
+#: .\catalogue\models.py:164 .\catalogue\models.py:232
+#: .\catalogue\models.py:476 .\catalogue\models.py:557 .\gallery\admin.py:135
+#: .\gallery\models.py:235 .\gallery\models.py:307 .\static_page\admin.py:16
+#: .\static_page\models.py:169 .\static_page\models.py:220
+msgid "Author"
+msgstr ""
+
+#: .\banner\admin.py:158 .\banner\models.py:241 .\catalogue\admin.py:43
+#: .\catalogue\admin.py:360 .\catalogue\models.py:170
+#: .\catalogue\models.py:482 .\gallery\admin.py:158 .\gallery\models.py:240
+#: .\static_page\admin.py:59 .\static_page\models.py:175
+msgid "Last editor"
+msgstr ""
+
+#: .\banner\admin.py:165 .\catalogue\admin.py:50 .\catalogue\admin.py:367
+#: .\gallery\admin.py:165 .\static_page\admin.py:66
+msgid "None"
+msgstr ""
+
+#: .\banner\admin.py:185
+msgid "Not realized Text Data"
+msgstr ""
+
+#: .\banner\admin.py:229
+msgid "Banner must have at least one default name"
+msgstr ""
+
+#: .\banner\admin.py:231
+msgid "Banner must have only one default name"
+msgstr ""
+
+#: .\banner\models.py:9 .\banner\models.py:149 .\banner\models.py:234
+#: .\banner\models.py:252 .\banner\models.py:270 .\catalogue\models.py:15
+#: .\catalogue\models.py:29 .\catalogue\models.py:191
+#: .\catalogue\models.py:209 .\catalogue\models.py:227
+#: .\catalogue\models.py:245 .\catalogue\models.py:268
+#: .\catalogue\models.py:282 .\catalogue\models.py:503
+#: .\catalogue\models.py:518 .\catalogue\models.py:536
+#: .\catalogue\models.py:552 .\catalogue\models.py:570
+#: .\catalogue\models.py:592 .\catalogue\models.py:721
+#: .\catalogue\models.py:751 .\gallery\models.py:14 .\gallery\models.py:203
+#: .\gallery\models.py:304 .\gallery\models.py:320 .\gallery\models.py:340
+#: .\info_storage\models.py:8 .\localization\models.py:6
+#: .\localization\models.py:32 .\menu\models.py:9 .\menu\models.py:83
+#: .\menu\models.py:97 .\menu\models.py:172 .\menu\models.py:186
+#: .\menu\models.py:259 .\static_page\models.py:10 .\static_page\models.py:24
+#: .\static_page\models.py:37 .\static_page\models.py:197
+#: .\static_page\models.py:215 .\static_page\models.py:233
+msgid "Id"
+msgstr ""
+
+#: .\banner\models.py:9 .\banner\models.py:149 .\banner\models.py:234
+#: .\banner\models.py:252 .\banner\models.py:270 .\catalogue\models.py:15
+#: .\catalogue\models.py:29 .\catalogue\models.py:191
+#: .\catalogue\models.py:209 .\catalogue\models.py:227
+#: .\catalogue\models.py:245 .\catalogue\models.py:268
+#: .\catalogue\models.py:282 .\catalogue\models.py:503
+#: .\catalogue\models.py:518 .\catalogue\models.py:536
+#: .\catalogue\models.py:552 .\catalogue\models.py:570
+#: .\catalogue\models.py:592 .\catalogue\models.py:721
+#: .\catalogue\models.py:751 .\gallery\models.py:14 .\gallery\models.py:203
+#: .\gallery\models.py:320 .\gallery\models.py:340 .\info_storage\models.py:8
+#: .\localization\models.py:6 .\localization\models.py:32 .\menu\models.py:9
+#: .\menu\models.py:83 .\menu\models.py:97 .\menu\models.py:172
+#: .\menu\models.py:186 .\menu\models.py:259 .\static_page\models.py:10
+#: .\static_page\models.py:24 .\static_page\models.py:37
+#: .\static_page\models.py:197 .\static_page\models.py:215
+#: .\static_page\models.py:233
+msgid "Unique identifier"
+msgstr ""
+
+#: .\banner\models.py:10 .\banner\models.py:93 .\catalogue\models.py:593
+#: .\catalogue\models.py:667 .\gallery\models.py:15 .\gallery\models.py:121
+msgid "Original image"
+msgstr ""
+
+#: .\banner\models.py:11 .\banner\models.py:99 .\catalogue\models.py:595
+#: .\catalogue\models.py:596 .\catalogue\models.py:681 .\gallery\models.py:16
+#: .\gallery\models.py:17 .\gallery\models.py:134
+msgid "Large image"
+msgstr ""
+
+#: .\banner\models.py:12 .\banner\models.py:105 .\catalogue\models.py:598
+#: .\catalogue\models.py:599 .\catalogue\models.py:695 .\gallery\models.py:18
+#: .\gallery\models.py:19 .\gallery\models.py:147
+msgid "Medium image"
+msgstr ""
+
+#: .\banner\models.py:13 .\banner\models.py:111 .\catalogue\models.py:601
+#: .\catalogue\models.py:602 .\catalogue\models.py:709 .\gallery\models.py:20
+#: .\gallery\models.py:21 .\gallery\models.py:160
+msgid "Small image"
+msgstr ""
+
+#: .\banner\models.py:14 .\catalogue\models.py:214 .\catalogue\models.py:523
+#: .\catalogue\models.py:603 .\gallery\models.py:22
+#: .\static_page\models.py:202
+msgid "Weight"
+msgstr ""
+
+#: .\banner\models.py:14
+msgid "Used for sorting"
+msgstr ""
+
+#: .\banner\models.py:15 .\catalogue\models.py:290 .\catalogue\models.py:604
+#: .\catalogue\models.py:606 .\gallery\models.py:23
+msgid "Is active?"
+msgstr ""
+
+#: .\banner\models.py:16
+msgid "If checked image will be used in banner render"
+msgstr ""
+
+#: .\banner\models.py:17
+msgid "Banner, that contains this image"
+msgstr ""
+
+#: .\banner\models.py:31 .\banner\models.py:84 .\gallery\models.py:93
+msgid "Image has no name"
+msgstr ""
+
+#: .\banner\models.py:87 .\banner\models.py:166 .\banner\models.py:254
+#: .\banner\models.py:272 .\catalogue\admin.py:293 .\catalogue\admin.py:796
+#: .\catalogue\models.py:16 .\catalogue\models.py:192
+#: .\catalogue\models.py:211 .\catalogue\models.py:269
+#: .\catalogue\models.py:504 .\catalogue\models.py:520
+#: .\catalogue\models.py:661 .\gallery\models.py:115 .\gallery\models.py:230
+#: .\gallery\models.py:322 .\gallery\models.py:342 .\localization\models.py:7
+#: .\localization\models.py:33 .\menu\models.py:39 .\menu\models.py:84
+#: .\menu\models.py:128 .\menu\models.py:173 .\menu\models.py:215
+#: .\menu\models.py:260 .\static_page\forms.py:10 .\static_page\models.py:11
+#: .\static_page\models.py:25 .\static_page\models.py:38
+#: .\static_page\models.py:199
+msgid "Name"
+msgstr ""
+
+#: .\banner\models.py:121 .\banner\models.py:200 .\catalogue\models.py:81
+#: .\catalogue\models.py:97 .\catalogue\models.py:343
+#: .\catalogue\models.py:359 .\catalogue\models.py:375 .\gallery\models.py:170
+#: .\gallery\models.py:270 .\menu\models.py:49 .\menu\models.py:138
+#: .\menu\models.py:225 .\static_page\models.py:94 .\static_page\models.py:110
+msgid "Unrealized languages"
+msgstr ""
+
+#: .\banner\models.py:124 .\banner\models.py:203 .\catalogue\models.py:84
+#: .\catalogue\models.py:100 .\catalogue\models.py:346
+#: .\catalogue\models.py:362 .\catalogue\models.py:378 .\gallery\models.py:173
+#: .\gallery\models.py:273 .\menu\models.py:52 .\menu\models.py:141
+#: .\menu\models.py:228 .\static_page\models.py:97 .\static_page\models.py:113
+msgid "OK"
+msgstr ""
+
+#: .\banner\models.py:127 .\banner\models.py:205 .\gallery\models.py:175
+#: .\gallery\models.py:275 .\menu\models.py:54 .\menu\models.py:143
+#: .\menu\models.py:230
+msgid "Text data language check"
+msgstr ""
+
+#: .\banner\models.py:144 .\banner\models.py:257 .\banner\models.py:258
+msgid "Banner image position"
+msgstr ""
+
+#: .\banner\models.py:145
+msgid "Banner image positions"
+msgstr ""
+
+#: .\banner\models.py:150 .\gallery\models.py:206
+msgid "Marker"
+msgstr ""
+
+#: .\banner\models.py:178 .\banner\models.py:241 .\catalogue\models.py:234
+#: .\catalogue\models.py:559 .\gallery\models.py:309
+#: .\static_page\models.py:222
+msgid "Last edited by"
+msgstr ""
+
+#: .\banner\models.py:184 .\banner\models.py:235 .\catalogue\models.py:176
+#: .\catalogue\models.py:228 .\catalogue\models.py:488
+#: .\catalogue\models.py:553 .\gallery\models.py:245 .\gallery\models.py:305
+#: .\static_page\models.py:181 .\static_page\models.py:216
+msgid "Creating date"
+msgstr ""
+
+#: .\banner\models.py:190 .\banner\models.py:236 .\catalogue\models.py:182
+#: .\catalogue\models.py:229 .\catalogue\models.py:230
+#: .\catalogue\models.py:494 .\catalogue\models.py:554
+#: .\catalogue\models.py:555 .\gallery\models.py:250 .\gallery\models.py:306
+#: .\static_page\models.py:187 .\static_page\models.py:217
+#: .\static_page\models.py:218
+msgid "Last modified date"
+msgstr ""
+
+#: .\banner\models.py:230
+msgid "Banners"
+msgstr ""
+
+#: .\banner\models.py:235
+msgid "Date of creating"
+msgstr ""
+
+#: .\banner\models.py:237
+msgid "date of last modification"
+msgstr ""
+
+#: .\banner\models.py:247
+msgid "Banner datetime user label"
+msgstr ""
+
+#: .\banner\models.py:248
+msgid "Banners datetime user labels"
+msgstr ""
+
+#: .\banner\models.py:253 .\banner\models.py:271 .\catalogue\admin.py:70
+#: .\catalogue\admin.py:387 .\catalogue\models.py:193
+#: .\catalogue\models.py:210 .\catalogue\models.py:246
+#: .\catalogue\models.py:505 .\catalogue\models.py:519
+#: .\catalogue\models.py:537 .\catalogue\models.py:571 .\gallery\models.py:321
+#: .\gallery\models.py:341 .\localization\models.py:27 .\menu\models.py:85
+#: .\menu\models.py:174 .\menu\models.py:261 .\static_page\admin.py:86
+#: .\static_page\models.py:198 .\static_page\models.py:234
+msgid "Language"
+msgstr ""
+
+#: .\banner\models.py:255 .\banner\models.py:256 .\banner\models.py:273
+#: .\banner\models.py:274 .\gallery\models.py:323 .\gallery\models.py:324
+#: .\gallery\models.py:343 .\gallery\models.py:344
+msgid "Description"
+msgstr ""
+
+#: .\banner\models.py:259 .\banner\models.py:276 .\catalogue\models.py:196
+#: .\catalogue\models.py:508 .\catalogue\models.py:606 .\gallery\models.py:327
+#: .\gallery\models.py:346 .\menu\models.py:87 .\menu\models.py:176
+#: .\menu\models.py:263
+msgid "Is default?"
+msgstr ""
+
+#: .\banner\models.py:260 .\banner\models.py:277
+msgid "Is this metadata used by default?"
+msgstr ""
+
+#: .\banner\models.py:265
+msgid "Banner image position metadata"
+msgstr ""
+
+#: .\banner\models.py:266
+msgid "Banners image positions metadata"
+msgstr ""
+
+#: .\banner\models.py:282
+msgid "Banner metadata"
+msgstr ""
+
+#: .\banner\models.py:283
+msgid "Banners metadata"
+msgstr ""
+
+#: .\catalogue\admin.py:89 .\catalogue\admin.py:553 .\catalogue\models.py:186
+#: .\catalogue\models.py:195 .\catalogue\models.py:213
+#: .\catalogue\models.py:235 .\catalogue\models.py:257
+#: .\catalogue\models.py:288 .\static_page\admin.py:40
+#: .\static_page\models.py:43
+msgid "Category"
+msgstr ""
+
+#: .\catalogue\admin.py:108 .\static_page\admin.py:124
+msgid "Unrealized SEO information"
+msgstr ""
+
+#: .\catalogue\admin.py:143 .\static_page\admin.py:158
+msgid "Unrealized Texts"
+msgstr ""
+
+#: .\catalogue\admin.py:178 .\catalogue\admin.py:528
+#: .\static_page\admin.py:192
+msgid "Realized Languages"
+msgstr ""
+
+#: .\catalogue\admin.py:224
+msgid "Category must have at least one default name"
+msgstr ""
+
+#: .\catalogue\admin.py:226
+msgid "Category must have only one default name"
+msgstr ""
+
+#: .\catalogue\admin.py:292 .\catalogue\admin.py:793
+#: .\static_page\admin.py:284
+msgid "Overview"
+msgstr ""
+
+#: .\catalogue\admin.py:294 .\catalogue\admin.py:797
+#: .\static_page\admin.py:285 .\static_page\models.py:211
+msgid "Texts"
+msgstr ""
+
+#: .\catalogue\admin.py:295 .\catalogue\admin.py:798
+#: .\static_page\admin.py:286
+msgid "SEO"
+msgstr ""
+
+#: .\catalogue\admin.py:406 .\catalogue\admin.py:668 .\catalogue\models.py:498
+#: .\catalogue\models.py:507 .\catalogue\models.py:522
+#: .\catalogue\models.py:539 .\catalogue\models.py:560
+#: .\catalogue\models.py:582 .\catalogue\models.py:608
+msgid "Item"
+msgstr ""
+
+#: .\catalogue\admin.py:425
+msgid "Realized SEO information"
+msgstr ""
+
+#: .\catalogue\admin.py:460
+msgid "Realized Texts"
+msgstr ""
+
+#: .\catalogue\admin.py:494
+msgid "Realized Short Texts"
+msgstr ""
+
+#: .\catalogue\admin.py:585 .\catalogue\admin.py:631
+msgid "Item must have at least one default name"
+msgstr ""
+
+#: .\catalogue\admin.py:587 .\catalogue\admin.py:633
+msgid "Item must have only one default name"
+msgstr ""
+
+#: .\catalogue\admin.py:691
+msgid "Item parameter already have name with this language"
+msgstr ""
+
+#: .\catalogue\admin.py:739
+msgid "Please check price"
+msgstr ""
+
+#: .\catalogue\admin.py:742
+msgid "Please select currency"
+msgstr ""
+
+#: .\catalogue\admin.py:794
+msgid "Parameters"
+msgstr ""
+
+#: .\catalogue\admin.py:795
+msgid "Short texts"
+msgstr ""
+
+#: .\catalogue\admin.py:799
+msgid "Images"
+msgstr ""
+
+#: .\catalogue\app.py:7
+msgid "Catalogue"
+msgstr ""
+
+#: .\catalogue\models.py:17 .\catalogue\models.py:270
+#: .\static_page\models.py:12
+msgid "Path"
+msgstr ""
+
+#: .\catalogue\models.py:24
+msgid "Category Template"
+msgstr ""
+
+#: .\catalogue\models.py:25
+msgid "Categories Templates"
+msgstr ""
+
+#: .\catalogue\models.py:30 .\catalogue\models.py:31 .\catalogue\models.py:286
+#: .\catalogue\models.py:287 .\static_page\models.py:41
+#: .\static_page\models.py:42
+msgid "Default language"
+msgstr ""
+
+#: .\catalogue\models.py:32 .\catalogue\models.py:33 .\gallery\models.py:300
+#: .\static_page\models.py:39 .\static_page\models.py:40
+msgid "Galleries"
+msgstr ""
+
+#: .\catalogue\models.py:34 .\catalogue\models.py:289
+#: .\static_page\models.py:44
+msgid "Template"
+msgstr ""
+
+#: .\catalogue\models.py:35 .\catalogue\models.py:291 .\menu\models.py:12
+#: .\menu\models.py:13 .\menu\models.py:100 .\menu\models.py:101
+#: .\menu\models.py:189 .\menu\models.py:190
+msgid "Url"
+msgstr ""
+
+#: .\catalogue\models.py:52 .\catalogue\models.py:308
+#: .\static_page\models.py:59
+msgid "Languages of texts"
+msgstr ""
+
+#: .\catalogue\models.py:58 .\catalogue\models.py:320
+#: .\static_page\models.py:71
+msgid "Languages of SEO information"
+msgstr ""
+
+#: .\catalogue\models.py:65 .\catalogue\models.py:327
+#: .\static_page\models.py:78
+msgid "Languages of text is correspond to languages of SEO information"
+msgstr ""
+
+#: .\catalogue\models.py:68 .\catalogue\models.py:330
+#: .\static_page\models.py:81
+msgid "Languages of text does not correspond to languages of SEO information"
+msgstr ""
+
+#: .\catalogue\models.py:71 .\catalogue\models.py:333
+#: .\static_page\models.py:84
+msgid "Language check"
+msgstr ""
+
+#: .\catalogue\models.py:87 .\catalogue\models.py:349
+#: .\static_page\models.py:100
+msgid "Seo language check"
+msgstr ""
+
+#: .\catalogue\models.py:103 .\catalogue\models.py:365
+#: .\static_page\models.py:116
+msgid "Texts language check"
+msgstr ""
+
+#: .\catalogue\models.py:187
+msgid "Categories"
+msgstr ""
+
+#: .\catalogue\models.py:204
+msgid "Category name"
+msgstr ""
+
+#: .\catalogue\models.py:205
+msgid "Categories names"
+msgstr ""
+
+#: .\catalogue\models.py:212 .\catalogue\models.py:521
+#: .\catalogue\models.py:538 .\static_page\models.py:200
+msgid "Body"
+msgstr ""
+
+#: .\catalogue\models.py:222
+msgid "Category Text"
+msgstr ""
+
+#: .\catalogue\models.py:223
+msgid "Categories Texts"
+msgstr ""
+
+#: .\catalogue\models.py:240
+msgid "Category datetime user label"
+msgstr ""
+
+#: .\catalogue\models.py:241
+msgid "Category datetime user labels"
+msgstr ""
+
+#: .\catalogue\models.py:247 .\catalogue\models.py:572
+#: .\static_page\models.py:235
+msgid "Title"
+msgstr ""
+
+#: .\catalogue\models.py:248 .\catalogue\models.py:249
+#: .\catalogue\models.py:573 .\catalogue\models.py:574
+#: .\static_page\models.py:236 .\static_page\models.py:237
+msgid "Meta keywords"
+msgstr ""
+
+#: .\catalogue\models.py:250 .\catalogue\models.py:251
+#: .\catalogue\models.py:575 .\catalogue\models.py:576
+#: .\static_page\models.py:238 .\static_page\models.py:239
+msgid "Meta description"
+msgstr ""
+
+#: .\catalogue\models.py:252 .\catalogue\models.py:253
+#: .\catalogue\models.py:577 .\catalogue\models.py:578
+#: .\static_page\models.py:240 .\static_page\models.py:241
+msgid "Meta robots"
+msgstr ""
+
+#: .\catalogue\models.py:254 .\catalogue\models.py:255
+#: .\catalogue\models.py:579 .\catalogue\models.py:580
+#: .\static_page\models.py:242 .\static_page\models.py:243
+msgid "Meta canonical"
+msgstr ""
+
+#: .\catalogue\models.py:256 .\catalogue\models.py:581
+#: .\static_page\models.py:244
+msgid "H1"
+msgstr ""
+
+#: .\catalogue\models.py:262 .\catalogue\models.py:263
+#: .\catalogue\models.py:587 .\catalogue\models.py:588
+#: .\static_page\models.py:250 .\static_page\models.py:251
+msgid "Seo information"
+msgstr ""
+
+#: .\catalogue\models.py:277
+msgid "Item Template"
+msgstr ""
+
+#: .\catalogue\models.py:278
+msgid "Items Templates"
+msgstr ""
+
+#: .\catalogue\models.py:283
+msgid "Price"
+msgstr ""
+
+#: .\catalogue\models.py:284 .\catalogue\models.py:285
+#: .\localization\models.py:55
+msgid "Currency"
+msgstr ""
+
+#: .\catalogue\models.py:314
+msgid "Languages of short texts"
+msgstr ""
+
+#: .\catalogue\models.py:381
+msgid "Shrot texts language check"
+msgstr ""
+
+#: .\catalogue\models.py:499
+msgid "Items"
+msgstr ""
+
+#: .\catalogue\models.py:513
+msgid "Item name"
+msgstr ""
+
+#: .\catalogue\models.py:514
+msgid "Items names"
+msgstr ""
+
+#: .\catalogue\models.py:531
+msgid "Item Text"
+msgstr ""
+
+#: .\catalogue\models.py:532
+msgid "Items Texts"
+msgstr ""
+
+#: .\catalogue\models.py:547
+msgid "Item Short Text"
+msgstr ""
+
+#: .\catalogue\models.py:548
+msgid "Items  Short Texts"
+msgstr ""
+
+#: .\catalogue\models.py:565
+msgid "Item datetime user label"
+msgstr ""
+
+#: .\catalogue\models.py:566
+msgid "Item datetime user labels"
+msgstr ""
+
+#: .\catalogue\models.py:593 .\gallery\models.py:15
+msgid "Original Image"
+msgstr ""
+
+#: .\catalogue\models.py:716
+msgid "Catalogue item position"
+msgstr ""
+
+#: .\catalogue\models.py:717
+msgid "Catalogue image positions"
+msgstr ""
+
+#: .\catalogue\models.py:722 .\localization\models.py:10
+#: .\localization\models.py:36 .\menu\models.py:14 .\menu\models.py:102
+#: .\menu\models.py:191
+msgid "First image"
+msgstr ""
+
+#: .\catalogue\models.py:723 .\localization\models.py:11
+#: .\localization\models.py:37 .\menu\models.py:15 .\menu\models.py:103
+#: .\menu\models.py:192
+msgid "Second image"
+msgstr ""
+
+#: .\catalogue\models.py:746
+msgid "Item Parameter"
+msgstr ""
+
+#: .\catalogue\models.py:747
+msgid "Items Parameters"
+msgstr ""
+
+#: .\catalogue\models.py:763
+msgid "Item Parameter Name"
+msgstr ""
+
+#: .\catalogue\models.py:764
+msgid "Items Parameters Names"
+msgstr ""
+
+#: .\gallery\admin.py:17 .\gallery\app.py:7 .\gallery\models.py:25
+#: .\gallery\models.py:299 .\gallery\models.py:310 .\gallery\models.py:345
+msgid "Gallery"
+msgstr ""
+
+#: .\gallery\admin.py:227
+msgid "Gallery must have at least one default name"
+msgstr ""
+
+#: .\gallery\admin.py:229
+msgid "Gallery must have only one default name"
+msgstr ""
+
+#: .\gallery\models.py:112
+msgid "Image has no description"
+msgstr ""
+
+#: .\gallery\models.py:198
+msgid "Gallery image position"
+msgstr ""
+
+#: .\gallery\models.py:199
+msgid "Gallery image positions"
+msgstr ""
+
+#: .\gallery\models.py:204 .\gallery\models.py:255
+msgid "First cover"
+msgstr ""
+
+#: .\gallery\models.py:205 .\gallery\models.py:260
+msgid "Second cover"
+msgstr ""
+
+#: .\gallery\models.py:315
+msgid "Gallery datetime user label"
+msgstr ""
+
+#: .\gallery\models.py:316
+msgid "Galleries datetime user labels"
+msgstr ""
+
+#: .\gallery\models.py:325 .\gallery\models.py:326
+msgid "Gallery image"
+msgstr ""
+
+#: .\gallery\models.py:335
+msgid "Gallery image position metadata"
+msgstr ""
+
+#: .\gallery\models.py:336
+msgid "Galleries image positions metadata"
+msgstr ""
+
+#: .\gallery\models.py:351
+msgid "Gallery metadata"
+msgstr ""
+
+#: .\gallery\models.py:352
+msgid "Galleries metadata"
+msgstr ""
+
+#: .\info_storage\app.py:7
+msgid "Information Storage"
+msgstr ""
+
+#: .\info_storage\models.py:7
+msgid "Only characters are allowed."
+msgstr ""
+
+#: .\info_storage\models.py:9
+msgid "Key"
+msgstr ""
+
+#: .\info_storage\models.py:11
+msgid "Value"
+msgstr ""
+
+#: .\info_storage\models.py:18
+msgid "Key-value Pair"
+msgstr ""
+
+#: .\info_storage\models.py:19
+msgid "Storage"
+msgstr ""
+
+#: .\localization\admin.py:20
+msgid "At least one default currency needed"
+msgstr ""
+
+#: .\localization\admin.py:22
+msgid "Only one default currency needed"
+msgstr ""
+
+#: .\localization\app.py:7
+msgid "Localization"
+msgstr ""
+
+#: .\localization\models.py:8 .\localization\models.py:34
+msgid "Short name"
+msgstr ""
+
+#: .\localization\models.py:28
+msgid "Languages"
+msgstr ""
+
+#: .\localization\models.py:38
+msgid "Coefficient"
+msgstr ""
+
+#: .\localization\models.py:56
+msgid "Currencies"
+msgstr ""
+
+#: .\menu\admin.py:20
+msgid "Menu item must have at least one default  name"
+msgstr ""
+
+#: .\menu\admin.py:22 .\menu\admin.py:86 .\menu\admin.py:149
+msgid "Menu item must have only one default name"
+msgstr ""
+
+#: .\menu\admin.py:84 .\menu\admin.py:147
+msgid "Menu item must have at least one default name"
+msgstr ""
+
+#: .\menu\app.py:7
+msgid "Menu"
+msgstr ""
+
+#: .\menu\models.py:10 .\menu\models.py:11 .\menu\models.py:98
+#: .\menu\models.py:99 .\menu\models.py:187 .\menu\models.py:188
+msgid "Parent"
+msgstr ""
+
+#: .\menu\models.py:78
+msgid "Main menu item"
+msgstr ""
+
+#: .\menu\models.py:79
+msgid "Main menu"
+msgstr ""
+
+#: .\menu\models.py:86 .\menu\models.py:175 .\menu\models.py:262
+msgid "Menu item"
+msgstr ""
+
+#: .\menu\models.py:92
+msgid "Main menu item names"
+msgstr ""
+
+#: .\menu\models.py:93
+msgid "Main menu item name"
+msgstr ""
+
+#: .\menu\models.py:167
+msgid "Additional menu item"
+msgstr ""
+
+#: .\menu\models.py:168
+msgid "Additional menu"
+msgstr ""
+
+#: .\menu\models.py:181
+msgid "Additional menu item names"
+msgstr ""
+
+#: .\menu\models.py:182
+msgid "Additional menu item name"
+msgstr ""
+
+#: .\menu\models.py:254
+msgid "Extra menu item"
+msgstr ""
+
+#: .\menu\models.py:255
+msgid "Extra menu"
+msgstr ""
+
+#: .\menu\models.py:268
+msgid "Extra menu item names"
+msgstr ""
+
+#: .\menu\models.py:269
+msgid "Extra menu item name"
+msgstr ""
+
+#: .\neutrino\settings.py:137
+msgid "Russian"
+msgstr ""
+
+#: .\neutrino\settings.py:138
+msgid "English"
+msgstr ""
+
+#: .\neutrino\urls.py:46
+msgid "Neutrino Admin Panel"
+msgstr ""
+
+#: .\static_page\admin.py:105 .\static_page\models.py:192
+msgid "Static page"
+msgstr ""
+
+#: .\static_page\app.py:7 .\static_page\models.py:193
+msgid "Static pages"
+msgstr ""
+
+#: .\static_page\forms.py:11
+msgid "Subject"
+msgstr ""
+
+#: .\static_page\forms.py:12
+msgid "E-mail"
+msgstr ""
+
+#: .\static_page\forms.py:13 .\templates\static_page\index.html:31
+msgid "Message"
+msgstr ""
+
+#: .\static_page\models.py:19
+msgid "Static Page Template"
+msgstr ""
+
+#: .\static_page\models.py:20
+msgid "Static Pages Templates"
+msgstr ""
+
+#: .\static_page\models.py:32
+msgid "Static Page Category"
+msgstr ""
+
+#: .\static_page\models.py:33
+msgid "Static Page Categories"
+msgstr ""
+
+#: .\static_page\models.py:201 .\static_page\models.py:223
+#: .\static_page\models.py:245
+msgid "Page"
+msgstr ""
+
+#: .\static_page\models.py:210
+msgid "Text"
+msgstr ""
+
+#: .\static_page\models.py:228
+msgid "Static page datetime user label"
+msgstr ""
+
+#: .\static_page\models.py:229
+msgid "Static page datetime user labels"
+msgstr ""
+
+#: .\templates\static_page\index.html:16
+msgid "Your name"
+msgstr ""
+
+#: .\templates\static_page\index.html:26
+msgid "Your email address"
+msgstr ""
+
+#: .\templates\system\404.html:9
+msgid "Requested page not found."
+msgstr ""
+
+#: .\templates\system\500.html:9
+msgid "Something happened on the server. We are sorry. :( "
+msgstr ""

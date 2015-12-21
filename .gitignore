@@ -1,0 +1,10 @@
+.idea/
+*.pyc
+*.mo
+*/migrations/*
+*.sqlite3
+.env
+media/
+static/*
+!/static/static_page
+!/static/admin

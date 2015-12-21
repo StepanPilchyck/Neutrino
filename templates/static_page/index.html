@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% load i18n %}
+     {{ galleries_container.galleries.TEST.images.0.description }}
+{#    <img src="{{ banners_container.banners.TEST.images.0.original_image }}"/>#}
+<from method="post">
+    {% csrf_token %}
+    {{ contact_from.non_field_errors }}
+    <div>
+        {{ contact_from.your_name.errors }}
+        <label for="{{ contact_from.your_name.id_for_label }}">{% trans "Your name" %}:</label>
+        {{ contact_from.your_name }}
+    </div>
+    <div>
+        {{ contact_from.subject.errors }}
+        <label for="{{ contact_from.subject.id_for_label }}"></label>
+        {{ contact_from.subject }}
+    </div>
+    <div>
+        {{ contact_from.email.errors }}
+        <label for="{{ contact_from.email.id_for_label }}">{% trans "Your email address" %}:</label>
+        {{ contact_from.email }}
+    </div>
+    <div>
+        {{ contact_from.message.errors }}
+        <label for="{{ contact_from.message.id_for_label }}">{% trans "Message" %}:</label>
+        {{ contact_from.message }}
+    </div>
+    <input type="submit" value="Submit" />
+</from>
+
+</body>
+</html>

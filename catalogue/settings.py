@@ -1,0 +1,1 @@
+PRODUCT_ON_PAGE = 1

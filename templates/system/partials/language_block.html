@@ -1,0 +1,1 @@
+{% for lang in languages %}<a {% if lang.short_name == selected_language %}class="active"{% endif %} href="/{{ lang.short_name }}/{% if url != 'index' %}{{ url }}/{% endif %}">{{ lang.name }}</a> {% if not forloop.last %}<span>|</span>{% endif %} {% endfor %}
